@@ -7,7 +7,6 @@ printf("the next step");
 scanf("%d",&a);
 printf("%d",a);
 printf("finally learning something");
-printf("revising");
 
 
 }
